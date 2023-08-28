@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Meedaxa Ahmed, I'm a software engineer currently working at Multiverse. I'm also a part-time coding instructor
+My name is Jake Orchard, I am a Junior Web Developer with a big appetite for learning! I have recently graduated from a Full Stack Web Development Bootcamp hosted by the University of Birmingham.
 ## 🤹 Skills
 
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
