@@ -1,6 +1,7 @@
 ### Hello there 👋
 
-My name is Jake Orchard, I am a Junior Web Developer with a big appetite for learning! I have recently graduated from a Full Stack Web Development Bootcamp hosted by the University of Birmingham.
+My name is Jake Orchard, I am a Junior Web Developer with a big appetite for learning! I have recently graduated from a Full Stack Web Development Bootcamp hosted by the University of Birmingham and I am looking for more opportunities to learn and grow!  
+Thank you for taking the time to checkout my GitHub profile.
 ## 🤹 Skills
 
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
